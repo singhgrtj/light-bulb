@@ -39,7 +39,7 @@ const BulbScreen: React.FC<Props> = (props) => {
                 </TouchableOpacity>
 
                 <View style={styles.instruction}>
-                    <Text style={styles.instructionText}>Tap on the bulb to turn on/off the light</Text>
+                    <Text style={styles.instructionText}>Tap on the bulb to turn on/off the light.</Text>
                 </View>
             </View>
         </SafeAreaView>
